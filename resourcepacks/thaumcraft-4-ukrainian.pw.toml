@@ -1,0 +1,13 @@
+name = "Thaumcraft 4 Ukrainian"
+filename = "Thaumcraft 4 Ukrainian 1.0.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8dda6035b87c2bb087f4a3e4f845a1a5865c5e0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4830526
+project-id = 914010

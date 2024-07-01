@@ -1,0 +1,13 @@
+name = "Doors by iChun"
+filename = "Doors-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e25c303f8543b2c83f7385b31b788c5f95bd7843"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2232517
+project-id = 229070

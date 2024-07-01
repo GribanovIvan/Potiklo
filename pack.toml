@@ -1,0 +1,13 @@
+name = "Potiklo"
+author = "GribanovIvan"
+version = "0.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3bce4c1ab33df5af8ec19e277fe8371ee08e76ca34ca78f5cf6d0f8572edcac6"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

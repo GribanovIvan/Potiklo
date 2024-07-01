@@ -1,0 +1,13 @@
+name = "Thaumic Additions: Reconstructed"
+filename = "[1.7.10] Thaumic Additions - 0.41.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac3dab4c28aea4a4acbbc1bf345707baf8dc6809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2417787
+project-id = 232564

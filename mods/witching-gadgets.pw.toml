@@ -1,0 +1,13 @@
+name = "Witching Gadgets"
+filename = "WitchingGadgets-1.7.10-1.1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12e2a31d7a5f48759a932682414d875d35956020"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2262119
+project-id = 228268

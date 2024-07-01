@@ -1,0 +1,13 @@
+name = "Forge Relocation - FMP Plugin"
+filename = "ForgeRelocationFMP-0.0.1.2-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c4326ac30af8d958aad18ef164bdf452a26e461"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2244822
+project-id = 232076

@@ -1,0 +1,13 @@
+name = "Applied Energistics 2 Ukrainian"
+filename = "AE2 Ukrainian 1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18ed900d0e02ab2c8b0c856bdb8c0b4ed2898a6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4816299
+project-id = 919139

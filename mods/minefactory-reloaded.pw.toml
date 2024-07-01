@@ -1,0 +1,13 @@
+name = "Minefactory Reloaded"
+filename = "MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15b3b178e7103c74b8b5522330eef9d632376f22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2366149
+project-id = 66672

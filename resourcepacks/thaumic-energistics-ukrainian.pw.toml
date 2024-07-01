@@ -1,0 +1,13 @@
+name = "Thaumic Energistics Ukrainian"
+filename = "Thaumic Energistics Ukrainian 1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "724bedf5ef88270930b1194468b993449eb46534"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4987184
+project-id = 931090

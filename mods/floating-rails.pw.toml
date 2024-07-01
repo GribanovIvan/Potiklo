@@ -1,0 +1,13 @@
+name = "Floating Rails"
+filename = "Floating Rails Beta v1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be871f08f6bedb2597cb3d21d5b9f76a4acac70d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2226248
+project-id = 227277

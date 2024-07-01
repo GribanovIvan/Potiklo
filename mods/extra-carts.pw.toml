@@ -1,0 +1,13 @@
+name = "Extra Carts"
+filename = "ExtraCarts-1.7.10-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "486d2015a7eb3903b17d280826ee64ddc8ef5340"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2250610
+project-id = 222379

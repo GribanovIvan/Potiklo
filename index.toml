@@ -1,0 +1,778 @@
+hash-format = "sha256"
+
+[[files]]
+file = "betterfps.txt"
+hash = "a59ad8f585ba4ef55f665edc835d2bdf9d760b8cf4b445ebce72beb26d8133c1"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "8e1fc144ddf5e5fc37466db1e7ef41d52139d9bf8135ffabd045ec1bffce7797"
+
+[[files]]
+file = "config/CustomMainMenu/mainmenu.json"
+hash = "498013c2e1449cf9fd6ab74e43fe068defe013daf24789f9001a2cfd1c36320a"
+
+[[files]]
+file = "config/DimDoors.cfg"
+hash = "36512468e68ad36c16d76bc89a81a421edd6c5dfb1b212d3b7800e1dbea53326"
+
+[[files]]
+file = "config/EnhancedPortals/config.cfg"
+hash = "eb1e2029d06c39d5231b16fce32775fe52720485ef37ca9d33f32eb9b1e94bee"
+
+[[files]]
+file = "config/FpsReducer/FpsReducer.cfg"
+hash = "12647cbfb24f1dd6153b7c1bbbb00f03b39a9bddd9028f1eba7979b3622b9a56"
+
+[[files]]
+file = "config/Galacticraft/core.conf"
+hash = "bf0898ef3b5d383dfd5283bd506ab72ad6b4f7f928c1bb1d3ae02e359af83c59"
+
+[[files]]
+file = "config/GalaxySpace/core.conf"
+hash = "7299b1854571cae9399adfa50c2555140e699ebd55735a2715aa0910c81e9277"
+
+[[files]]
+file = "config/IGWMod.cfg"
+hash = "52cd917ee9452639272289581db8c5cd4d299326b68bf80a04b1d13f5362d784"
+
+[[files]]
+file = "config/INpureProjects/INpureCore/INpureCore.cfg"
+hash = "e3a8291d8e8abb18da393bd03271b07f1132097cc07e6517d07ee4b3677ed824"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/AppliedEnergistics2.js"
+hash = "887eedad2c3db049fc68376a12d11e41e45e614828410fa49f4c5cb86f8278d5"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/Bootstrap.js"
+hash = "841c914dfb3792976fdc9496cd739baf45c519a60ea00380b20ae38ba84eeeda"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/ExtraUtilities.js"
+hash = "6106f0021e512b40ee97cb289585362fb39c193420127ca320c46d577b628761"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/ForgeMicroblock.js"
+hash = "0cc5aff0bc78e072ed78b5e81c4807b4d15795c607dfe07f4cad742a6f9261b9"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/Mekanism.js"
+hash = "6b558c728ac87751032b6a9fec2665fab31211560a274b7aab97038012cef221"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/Tcon.js"
+hash = "6b8628eb94ebf9a229739da5f02601deb3645e8f0dd579daecb47bc01d3521f9"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/custom_nei_filters.cfg"
+hash = "32a40783f37bb41c83991b0d749989a24728d24ba13934456e347f36abc912ea"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/nei_filters.toc"
+hash = "c2b91fbc0b7b77fde25e051400a6c2b9567eefcb3b48bc871918ff3dfc6e36b3"
+
+[[files]]
+file = "config/INpureProjects/custom_nei_filters/vanilla.js"
+hash = "0a3eb75b421983e249255f1a607a2d66198e125a19460565b5c94d21a63e4945"
+
+[[files]]
+file = "config/NEI/client.cfg"
+hash = "ca48fb64c6275c421d29a36a156936f8c8d2cc11c453dac9c1b7a442c19b609b"
+
+[[files]]
+file = "config/RTG/rtg.cfg"
+hash = "2dfde6ad46a3e63f68fbf0ce7d19eea4625bdfdcff34dd56edf9f2c731a05d89"
+
+[[files]]
+file = "config/RandomThings.cfg"
+hash = "085e249eb1413916c099d8815a43971aa1b36170ae4dcc3746a22f6896f407e1"
+
+[[files]]
+file = "config/TaintedMagic.cfg"
+hash = "d1455575cfe788a61bf7427814c2957630d90adf2ec412a254244036943e9621"
+
+[[files]]
+file = "config/TwilightForest.cfg"
+hash = "555d269782fc12949d57c40a9de1fdade49f8e945d83f1b036057b7d0125ac88"
+
+[[files]]
+file = "config/aroma1997/Aroma1997Core.cfg"
+hash = "76449726c11dd8e1520026397135bd10a296240f3eee00c2da8cbd2dacc5d830"
+
+[[files]]
+file = "config/bugtorch/base.cfg"
+hash = "9cbea29424b6577eaa2d57a5dbc518cfe2bc6a8df7f9f61156790faad5b9aeee"
+
+[[files]]
+file = "config/emojicord.cfg"
+hash = "2d18214f0e610cb27022e26f7c59f8ef157c1e047b65a5f4625c5eabc17afa15"
+
+[[files]]
+file = "config/smoothfont/smoothfont.cfg"
+hash = "945b0925c47388414eb30ce92bbf92d58d6816bfa8a547d61c36ed3305aedf83"
+
+[[files]]
+file = "config/splash.properties"
+hash = "fb5ff1984232edecfce6fbfa6deb6374bcd7bf898f58d2c51b9e46cbbbbb78fe"
+
+[[files]]
+file = "fontfiles/Minecraft 1.1.ttf"
+hash = "702eb1c74b7bb484b8d40d4ecdcebb8b7021e5eebed3c8cf669464e9d8702c31"
+
+[[files]]
+file = "mods/AppleCore-3.3.0.jar"
+hash = "48723d07b026684c62499c50a3d5b21c740d0badc962ecc4ca6b17d4ceae2978"
+
+[[files]]
+file = "mods/BaublesExpanded-2.1.4.jar"
+hash = "34904528d8c83590c9b2aa67e98490c5e3691360ea52d2908576124c25d08e48"
+
+[[files]]
+file = "mods/BetterAchievements-0.3.0.jar"
+hash = "3fe25c63b81cde07bcfa6ed8142a5dc68490381e4e108fadee60170197250697"
+
+[[files]]
+file = "mods/BetterBuildersWands-0.12.0-GTNH.jar"
+hash = "23a632173b833b619d0c1edd655f38db527a398ee385ef2d026e5a709ec47356"
+
+[[files]]
+file = "mods/Emojicord-1.7.10-1.1.1.46-universal.jar"
+hash = "54e4bff52a57b1cf969c3896daae5162179a66da6ac574a11e8510fa31c18cef"
+
+[[files]]
+file = "mods/Forbidden.Magic-0.7.0-GTNH.jar"
+hash = "e87a8d4cd6477b14eebe07177a2c33185cc903ac7c04367c558a401c4dbec7d3"
+
+[[files]]
+file = "mods/ForgeMultipart-1.5.0.jar"
+hash = "6f8a54ddeaaa091122136c64ec738c9863fda68e9365cd0532a8417e11f19b53"
+
+[[files]]
+file = "mods/INpureCore-1.2.0-GTNH.jar"
+hash = "0f49cc16a3440d1a20173c0d4c936b3ac975282bba82b900531f4b3805d7880a"
+
+[[files]]
+file = "mods/IronChest-6.0.85.jar"
+hash = "cfedeccb9c6091f3e8dc120c1eb0b41c71b19a908dd01b7c8136aff3a0d94598"
+
+[[files]]
+file = "mods/IronChestMinecarts-1.1.0.jar"
+hash = "9b601f4dd865c83623a710763e35f935a6405129bf600f44aaf025be4476e4f0"
+
+[[files]]
+file = "mods/Mantle-0.4.1.jar"
+hash = "f0fa456cfc6306f03d12601defaf3b370b4b03cc15c7c49b1b6ea89f6a4dd673"
+
+[[files]]
+file = "mods/ModTweaker2-0.11.0.jar"
+hash = "49f22f91513373bec381be960355bbe67c83be2f6acbe97b8c2f7b8ddc2f5755"
+
+[[files]]
+file = "mods/MouseTweaks-2.4.17-GTNH.jar"
+hash = "6aad3b93a6796a66910021f5f63797721c5f370eea7df91cd85006278edd939b"
+
+[[files]]
+file = "mods/MrTJPCore-1.2.1.jar"
+hash = "d2d8e6cdd6f4c8c955d49c6ace47d66acaa50772f5fec30170e8dfa19574ef33"
+
+[[files]]
+file = "mods/NEIAddons-1.16.0.jar"
+hash = "3ab0e3286b21887887920728f8e0164dd7e8c7e7c104cd95135588d3e080a768"
+
+[[files]]
+file = "mods/NEIIntegration-1.4.0.jar"
+hash = "484cabee25950ca2b6d3d34722242b85638d271397d4dac5d5c6a87f8f3f019c"
+
+[[files]]
+file = "mods/NotEnoughItems-2.6.13-GTNH-pre.jar"
+hash = "6198cdeef0b1a10860d94446fe5366a6f921c9d108849294ad59aae0271ec08d"
+
+[[files]]
+file = "mods/OpenBlocks-1.10.0-GTNH.jar"
+hash = "5bb11963c3d4682811dc153d29f9473afef971d3433244cb0bdccc53df29e82c"
+
+[[files]]
+file = "mods/OpenComputers-1.10.13-GTNH-pre.jar"
+hash = "1d61be7fc7707bc6b3adc9dfe0b3da6d309aecd65cb51452bc7eed5abe27cc96"
+
+[[files]]
+file = "mods/OpenGlasses-1.5.0-GTNH.jar"
+hash = "fca630ad16f98b793680a00cac1336b962c84241680e2a0bd33ab070758b7c3e"
+
+[[files]]
+file = "mods/OpenModsLibs-0.10.9.jar"
+hash = "9028efa71dc98ca80aff9cfe9bb0f55ebe11ee381579ba9f04a4d028f3ad928f"
+
+[[files]]
+file = "mods/OpenSecurity/sounds/alarms/klaxon1.ogg"
+hash = "535fa0b607f39a65a46690ee636db8b27354e7d0f0727d15cfe959fb666bfac2"
+
+[[files]]
+file = "mods/OpenSecurity/sounds/alarms/klaxon2.ogg"
+hash = "8ee6545db98086558bde7608f938bf0b28f9208315e72fdb32bdd87b90eaf2bc"
+
+[[files]]
+file = "mods/RTG-1.1.3-GTNH.jar"
+hash = "43dc05e27053c557d9d3ffb8bd5040058906686a7a278ce566f2bed0039c9594"
+
+[[files]]
+file = "mods/RandomThings-2.5.3.jar"
+hash = "2cc48da5361170eae181eca045fd4300f53543dabf7ea5959d0770849f7d7bb0"
+
+[[files]]
+file = "mods/TConstruct-1.12.4-GTNH.jar"
+hash = "c189c939944386e2adddbaf7f10e94c9b174ef62ea7ec4c2856035e8ad1bf278"
+
+[[files]]
+file = "mods/ThaumcraftMobAspects-1.1.0-GTNH.jar"
+hash = "98658f7fa0fde1442a9cf9ef0904b85464b564454b978d48042b37dd8661a8f1"
+
+[[files]]
+file = "mods/ThaumcraftResearchTweaks-1.1.0.jar"
+hash = "9e3624a3e3d4c5cb18e453ac7b345b1f418a62fadbc3709425f481bb61dfde59"
+
+[[files]]
+file = "mods/Thaumic-Based-1.7.4.jar"
+hash = "11d0916c87afb2b6c25719418c7249433bbb5e372175243fbde5c5b7ec02c3ca"
+
+[[files]]
+file = "mods/Thaumic-Exploration-1.3.3-GTNH.jar"
+hash = "648896876ed43abbebe636b68d8cfa94a2fefb26ecbba70e7ac84e9d159808ac"
+
+[[files]]
+file = "mods/ThaumicHorizons-1.6.1.jar"
+hash = "09c9256f2283962a48be6dd6643b1e2e5c6a26c482e455f5d2bf68d34a1b0b1c"
+
+[[files]]
+file = "mods/ThaumicTinkerer-2.10.0.jar"
+hash = "4e93a7ca0551e25c04f1568934eaff15f6b38cf845a0afd60e2aa52401e9b77a"
+
+[[files]]
+file = "mods/TiCTooltips-1.3.1.jar"
+hash = "da83e7029dedaf7e21e9df754ebe876d040a6380e4ba40e7e7e9abf6cf9a42d5"
+
+[[files]]
+file = "mods/TwilightForest-2.6.27.jar"
+hash = "32fd255f27bc49ac8f9ea82fd97304aecc7f72a0779321549ad1b11fe54142b1"
+
+[[files]]
+file = "mods/WAILAPlugins-0.4.0.jar"
+hash = "41809936282699629261757d65e532bff69172dd61658c9dab141548b19cd894"
+
+[[files]]
+file = "mods/Waila-1.8.0.jar"
+hash = "f38c513cf24ee3037895e6d26c8a1cb96e475c5c85c9b5d40d68999f8ab9edba"
+
+[[files]]
+file = "mods/WarpTheory-1.3.7-GTNH.jar"
+hash = "7a579c8402552ef4efb75cadddb30f7504d3629c9d530210aa5ead53f01de9b5"
+
+[[files]]
+file = "mods/Wawla-1.3.0-GTNH.jar"
+hash = "7a2de6293c8e4d485c67ef009e9f7ddce8bf99cc3f6da2a5c69d03afb2cb0cd5"
+
+[[files]]
+file = "mods/WildCaves3-0.4.3.7%281.7.10%29.jar"
+hash = "4cb9c772cbe2974bedc3ce03b2360b2dfc4124294972416f078806ce7d0d87f9"
+
+[[files]]
+file = "mods/ae2fc-1.3.11-gtnh-pre.jar"
+hash = "17514e0a4671bdda3cc7bf5eb73ba029cf199a23f3ac14c5ac4907e579251aaf"
+
+[[files]]
+file = "mods/ae2stuff-0.8.2-GTNH.jar"
+hash = "9fe5ed0857a4a243ebcd444838afb57249d7d72b0ad13229475491a0662f0608"
+
+[[files]]
+file = "mods/aether-1.7.10-1.1.2.2.jar"
+hash = "e27ab0daf2b77009ab9078d438dde7e57b31f9cffe3c5136e4714daf249391fa"
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "06250d70894edf1c103aa82fd034fd8718d8f409c1db2b2de1e1c614b266e2eb"
+metafile = true
+
+[[files]]
+file = "mods/appliedenergistics2-rv3-beta-407-GTNH-pre.jar"
+hash = "e1f802fecfa91797080805641c85ef7c454fa43b6023ca47b6fbf2c38302a457"
+
+[[files]]
+file = "mods/archaicfix.pw.toml"
+hash = "5204d2e795ddf555e8496e58917c69149792c30e66ed88d2aca651e442166910"
+metafile = true
+
+[[files]]
+file = "mods/aroma1997core.pw.toml"
+hash = "237338ce33a51c3c71a704d2114d197cda1d5559d5b917355509eaaba79b4134"
+metafile = true
+
+[[files]]
+file = "mods/automagy.pw.toml"
+hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
+metafile = true
+
+[[files]]
+file = "mods/backpack-2.4.2-GTNH.jar"
+hash = "d365da4464c835ef25d06afc21a95791fa1e9a7974f126454f4373bd9ecdf409"
+
+[[files]]
+file = "mods/bdlib-1.10.0-GTNH.jar"
+hash = "41915d221fc04af9483fc3d25ef243f126ecaf7836d857a6cc0b0a8cb0071414"
+
+[[files]]
+file = "mods/better-foliage.pw.toml"
+hash = "17bb7f92e50ea0c82214bc2bf315f0ec4c19039e71e442afd9ac6313d489f400"
+metafile = true
+
+[[files]]
+file = "mods/better-loading-screen.pw.toml"
+hash = "3feb5fea2209c79bd080cbb89f1dc632c8470be4ff767758b091541289b3632d"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "27f968f3e42a06c7a1f664a794eb3c4e646ba1b06c424467191dfb016eeb04a7"
+metafile = true
+
+[[files]]
+file = "mods/bettercrashes-1.4.0-GTNH.jar"
+hash = "8f2edf1d9616af82fb00a5d8c50a145aab203141bddb1e8aeb8ceb0a2eabd33a"
+
+[[files]]
+file = "mods/big-doors.pw.toml"
+hash = "6045e9f0d28c2d35f2afabbd07f0472a4b3d917c284c15f7b519e8c3019a5648"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
+metafile = true
+
+[[files]]
+file = "mods/bugtorch-1.2.14-GTNH.jar"
+hash = "b5604dffa58f4b91309d2fd6746bfb46f501b392bdf3a0144ad1040fd437696f"
+
+[[files]]
+file = "mods/chisel-2.15.0-GTNH.jar"
+hash = "98d0089dea675fb8d213b507caf1a599b9be7e2e09e52a13eed041153d49f813"
+
+[[files]]
+file = "mods/chiseltones-1.2.0-GTNH.jar"
+hash = "2ba342849dee538490091a506b87fef63b107af2e672a910f85497b45c092d34"
+
+[[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "9a8ad9d3cffebaa3331f525030c28164e77711ebda0d7700798767b86b180f2b"
+metafile = true
+
+[[files]]
+file = "mods/codechickenlib-unofficial.pw.toml"
+hash = "f68c436801bb4cca5c0fb8a172badea975d5c98d969affa1ea2d7ffa8c8d71de"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
+metafile = true
+
+[[files]]
+file = "mods/controlling-2.1.0.jar"
+hash = "f3848f5e976fadcf6b4255da5a3acc962b7d18c04969a1786e2e155601a55e16"
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "a979cfe0c5da4983086182892d7e4ffebddbdf053d3e531482c92a8340e8dace"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "92f97f8e154f1b85fd41823813e74ba8806babbce79679445355b75547f610e2"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "bab0015d87086822cc7321fa95dbf228c41600301aa8478437d81a209f8891db"
+metafile = true
+
+[[files]]
+file = "mods/creativecore-1.4.0-GTNH.jar"
+hash = "4a7a55187f9dca1e1d5768910f3fe6a97b85635412182782680e80019ab0c2ed"
+
+[[files]]
+file = "mods/custom-main-menu.pw.toml"
+hash = "d20c5e3307203ec1d5286864494e149d1364168449e3c3aa5c585fac9785777d"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-doors-legacy.pw.toml"
+hash = "7e5015e690e7ea3d75bf332689b0852f9b0755cf4e996a52af3ada486a3c0543"
+metafile = true
+
+[[files]]
+file = "mods/doors-by-ichun.pw.toml"
+hash = "66b33c0e5b18d7f08ccc15c971e8474aceb4d561e05ffebd719f6325da6bfbec"
+metafile = true
+
+[[files]]
+file = "mods/dummycore.pw.toml"
+hash = "5312b6c468b4fb99b5cbe9b51be5ec92d40b899fdbafe4b7c75e33db65217765"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "ec87abd8e5ab06cd3b6b3917f383c14ed32180d46f7b4049fab87271be5456b6"
+metafile = true
+
+[[files]]
+file = "mods/endercore-0.4.6.jar"
+hash = "422d90d1f17d50df13e1988bc0657a270a946e6147deba79461607e206e27d3b"
+
+[[files]]
+file = "mods/enhanced-portals-3.pw.toml"
+hash = "5ca474ce8371a01a5dfb11898f65a1627dc4c5621203f618b554ea109bcf785b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "89869e7bd6ae48783aabf4b5e58479b3a0f7bfa978b9386c8bc46057c3db22bd"
+metafile = true
+
+[[files]]
+file = "mods/extra-carts.pw.toml"
+hash = "c83b2fff6b50eecef10419dcf2bc41cf55704079e3cb98a050ca7479fec32837"
+metafile = true
+
+[[files]]
+file = "mods/extra-golems.pw.toml"
+hash = "0f338840d3d10ad19bf25e5170ab7a38399f6ec738de61e682006c041b8b8019"
+metafile = true
+
+[[files]]
+file = "mods/extratic.pw.toml"
+hash = "33af2193e7aa0646d3424b5b790041d077fcd843cc9f1163251e4fce503e8826"
+metafile = true
+
+[[files]]
+file = "mods/findit-1.3.2.jar"
+hash = "f33a3e23245474d09cebabc9730c373b62b5f6a36b0e269a69c59da5b9ea9f11"
+
+[[files]]
+file = "mods/floating-rails.pw.toml"
+hash = "581c5942b0cd3c1cec3771e535416b03fa3c0131acafb1789a649f4f18f3e635"
+metafile = true
+
+[[files]]
+file = "mods/forge-relocation-fmp-plugin.pw.toml"
+hash = "77bb5648462430529e91ad93b0f9924b4161d9cd9bcc0d29568d63186915d2bf"
+metafile = true
+
+[[files]]
+file = "mods/forge-relocation.pw.toml"
+hash = "a961f4745299a1b16ba7ea3d697c704b2fb1170bd4507dd56f646aafade7afa2"
+metafile = true
+
+[[files]]
+file = "mods/forgelin-1.10.0-GTNH.jar"
+hash = "a3e817e0ccbc6f16f8f468941e6256068b488932abac2a160666909844f76125"
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "fe0e466df698b587b51ad5e3fbac014d75190e36302f4854b4e65e461c6a5767"
+metafile = true
+
+[[files]]
+file = "mods/gadomancy-1.3.4-pre.jar"
+hash = "c51383c2009ce192847e2d454856baa28610a37f85d89aba1cf6456fb4c1486a"
+
+[[files]]
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "d9f57ebfb2375fae145300f8360810f3d2429063bdbacb3f52c17dc17e07c9ef"
+metafile = true
+
+[[files]]
+file = "mods/galaxy-space-addon-for-galacticraft.pw.toml"
+hash = "80e31408f9b3270e5d375274a16b0fc53abdd51eadeaf16f49d7219364e9e4e4"
+metafile = true
+
+[[files]]
+file = "mods/gtnhlib-0.3.1.jar"
+hash = "3d28e48a999693411f2caa6343b109894c78b8745386d4eebdfe533e118650f0"
+
+[[files]]
+file = "mods/helpfixer.pw.toml"
+hash = "3378c7d035fd6cc8bbf2eb6e07078022baf760684003d17453e0e77d5ec6187e"
+metafile = true
+
+[[files]]
+file = "mods/hodgepodge-2.5.26-pre.jar"
+hash = "ba8c9187cd2de3ee6aee849b2789d7edd560812367f9fa02e8956b5cbf8d1aae"
+
+[[files]]
+file = "mods/holoinventory-2.4.12-GTNH.jar"
+hash = "7f70727dbb95523d466ab4dcb07e27c68dd21455826f64c57cfe4fc1674349b0"
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "9e973b867ed8fe486d21705ab9b73d133403c6a481ad118c78d3da5f3a0436c0"
+metafile = true
+
+[[files]]
+file = "mods/iguanas-tinker-tweaks.pw.toml"
+hash = "98c9df8d1f85781faa3c3cf8456de4f4335eee323aa69533f83374a5e79c5dcd"
+metafile = true
+
+[[files]]
+file = "mods/inventorytweaks-1.6.2.jar"
+hash = "cb16f95e9ae15321f42563613d7d766104af5388eb41b3720ca49cdc45904187"
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "8698ca4144602ddd44851a3cd3120c6483afd4570e17121d287491422a0212c7"
+metafile = true
+
+[[files]]
+file = "mods/littletiles-1.3.0-GTNH.jar"
+hash = "adecc8554edf0887847e1395e6a9b467e36df557f92b7c57467ae1dbf1930bca"
+
+[[files]]
+file = "mods/login-shield.pw.toml"
+hash = "dd5512fdb8d7649b7abdecb49a3024cabb832f1e39ba7738a7e5b029e6abbe0a"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors-1.16.0-GTNH.jar"
+hash = "260e195b841ed154cf841be7e38c8317a883accc5ca4411836b9b1d600ab80de"
+
+[[files]]
+file = "mods/minefactory-reloaded.pw.toml"
+hash = "07010584b084b6b3cf91fb7b29cbb0957d8d6e9def7df98bcb888e65db86c013"
+metafile = true
+
+[[files]]
+file = "mods/minetweaker3.pw.toml"
+hash = "2cae8c5eefd42c3a845794a5252252ddc3e48dee6b4cbba6927c2a4008239770"
+metafile = true
+
+[[files]]
+file = "mods/naturescompass-1.4.4-GTNH.jar"
+hash = "441361248c763ef6c46d056005b37335474439b84ae777c9df51701bd0b0ffc4"
+
+[[files]]
+file = "mods/netherlicious.pw.toml"
+hash = "94bcabc3b553229355935bdec56e8118f634be43076a5b6522824cdce28df585"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix-1.3.0.jar"
+hash = "ec60e16c3422c8c3a5149c7265531c38838557c35a7ef4ab8b327f0c166b28a3"
+
+[[files]]
+file = "mods/notenoughresources.pw.toml"
+hash = "d59e5fdbfd68f7ddb50cea5cdaf95f53eab824b8111ec855b3c90aeedee13a27"
+metafile = true
+
+[[files]]
+file = "mods/openprinter-0.3.0-GTNH.jar"
+hash = "5d9b0d77c81ff35b97fbb78f006c4f60c8339ac7d09e4f5fdb963dbbc349dd5a"
+
+[[files]]
+file = "mods/opensecurity-1.1.1-GTNH.jar"
+hash = "3ef9560c511f4f106d484ae500a50b4fc442f90c523fc6ca70ba109983d2d94d"
+
+[[files]]
+file = "mods/overloadedarmorbar-1.1.0.jar"
+hash = "bee208324d723d37b59c04c1b29e47606657d0b94700ce1da456ac3f0a2e5975"
+
+[[files]]
+file = "mods/particlelib.pw.toml"
+hash = "b4e9a7ce744a35dbcdf8a17020a3d7a80e64646b92ee0de7617cfd83220275d5"
+metafile = true
+
+[[files]]
+file = "mods/reauth.pw.toml"
+hash = "f63f1841a71c4bd850d526c208a4ea0909ee20c65a1a9d3c2bf928a7f6ca9022"
+metafile = true
+
+[[files]]
+file = "mods/resource-loader.pw.toml"
+hash = "7138d783b24cafd013c434c8443b4fa9bb108d264cde2ffd4ca90c59077ebd79"
+metafile = true
+
+[[files]]
+file = "mods/roguelike-1.6.0-GTNH.jar"
+hash = "92b2c59fa4034445d3d111657c6b812df138aff38cd7141ea6cfad6b010db9f5"
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
+metafile = true
+
+[[files]]
+file = "mods/smooth-font.pw.toml"
+hash = "317f48d5b1c4ec7cb0e949d7fa54eb0df8f13a5b11b0134524f29f6b272f123c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "fb44e610d7d436cc2764a8542a2761d63c949f589f20725309b39ba6a68af5c1"
+metafile = true
+
+[[files]]
+file = "mods/tainted-magic.pw.toml"
+hash = "4389f4ae56e7ae294af85bc072b13245276ba9044ccd630c19ef5cfbc2703a66"
+metafile = true
+
+[[files]]
+file = "mods/tc4tweaks.pw.toml"
+hash = "101aa655a872db14174195933dc2594fcf83e0b8d6f2ee8e6b3e5c36b4cc4ed6"
+metafile = true
+
+[[files]]
+file = "mods/tcinventoryscan-1.2.0-GTNH.jar"
+hash = "bfd958162eed46b0fc4301516edbbdd675dd7e6acb3a84f64ecacf4e5077d4ff"
+
+[[files]]
+file = "mods/tcneiadditions-1.4.0.jar"
+hash = "ab291e13dde3eebd0d0269949c2a8b5c85b2b8e7962361b3a9d3ec1fa7923b66"
+
+[[files]]
+file = "mods/tcnodetracker-1.3.0.jar"
+hash = "a1651ef9aa667a2f8a3fcf74877c1f70b980f74a42ec4a454e476036e8731d99"
+
+[[files]]
+file = "mods/thaumcraft-nei-plugin.pw.toml"
+hash = "f753f59a399e3dc7e7d9c1884965b32f2ccf5cce394dd0918ac7e9ab1029e787"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-additions.pw.toml"
+hash = "992effdd3bf4f9490f9bb56e8efc24cd313bf3b5f05b2e22424d8e42645a905f"
+metafile = true
+
+[[files]]
+file = "mods/thaumicenergistics-1.6.11-GTNH-pre.jar"
+hash = "ae0d405b6ad9232836bef4224f948a09ca9f54dbc343a039657e91b069222dd4"
+
+[[files]]
+file = "mods/torched.pw.toml"
+hash = "3c357924f9e4e5558879ca604cd86e6683d93bf3ef79c31d811a1afb23b404cf"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-1.1.0.jar"
+hash = "5ea94105e8f236c2fa1315f83c76c83f9e428e40a1175cd527a95dd19fbf4a0d"
+
+[[files]]
+file = "mods/travellers-gear.pw.toml"
+hash = "e367867a41db355cccbeb50304a2929fd79c135f776599e299775e92dc81c57d"
+metafile = true
+
+[[files]]
+file = "mods/unidict.pw.toml"
+hash = "3bc49fc971a2ed20c8379c091f46c1dd5c2daf84fb460f1a071eb05cebcdf81f"
+metafile = true
+
+[[files]]
+file = "mods/unimixins.pw.toml"
+hash = "81bc3a10a3d1dbafe605d35710e68586e4ba3595abff4eb2a1a5e757e1205f75"
+metafile = true
+
+[[files]]
+file = "mods/witching-gadgets.pw.toml"
+hash = "6cd1221de5da803dd806670b14bc35238fc1bc3207d41b3f114ed4e3bb7060d5"
+metafile = true
+
+[[files]]
+file = "mods/world-tooltips.pw.toml"
+hash = "7bcf59174830ecd4c66aeeb0cd1b2ed52b7f7520d3738dfa814b3b8f0c21501b"
+metafile = true
+
+[[files]]
+file = "mods/ztones.pw.toml"
+hash = "c03b3236b7169f8999bee4b3863f0ec725cf4ffe07ff9f9b8a021484331c468b"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "cc141ff749335a563448c6a7079c320d2296c4985d3d8df6880ba536b651c6ff"
+
+[[files]]
+file = "resourcepacks/applied-energistics-2-ukrainian.pw.toml"
+hash = "49cd8ff8e7c0170eb1cea3680cafb21e1d1b3ec29ed81fa17016b61a5512aaf7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/forbidden-magic-ukrainian.pw.toml"
+hash = "43df761567b3d7a64b615a71ce79e1c578bea41f140f0f2963628d1c7eef8e0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gadomancy-ukrainian.pw.toml"
+hash = "4b305a1dbd87406ebc7d0e61b19b6eac96f6838fd28020d12a5604c4d4807865"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaumcraft-4-ukrainian.pw.toml"
+hash = "7bf17ae13ac6981838017af9eb82a55ab5fd323c657dc34c3828b209c96041fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaumcraft-nei-plugin-ukrainian.pw.toml"
+hash = "6c1a8800f2fd3b91c116a5fe432ebd3b2ebefb6841b93c4af34bc6e72cd115ae"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaumic-energistics-ukrainian.pw.toml"
+hash = "a960085cb3bb07fd697aec19c3191cb7f39430a660575af89b7ce2c064534638"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaumic-tinkerer-ukrainian.pw.toml"
+hash = "b7d7baf157350f512964565fd9d4d83df6dfa1f26c2fa9d5a6be17bff9f00567"
+metafile = true
+
+[[files]]
+file = "resources/potiklo/textures/bohdan.png"
+hash = "aecb79e583a5a311542bc0fd41f64c8c64b2fcd81a14a6ab69efcf07f79ccb36"
+
+[[files]]
+file = "scripts/1.7.10-AetherLegacy-Aspects.zs"
+hash = "e9743d6a0a720025943266ea0de488c1732bab73eb75af52acde85be65a8f7ed"
+
+[[files]]
+file = "scripts/1.7.10-ThaumcraftAspectsRetweaked_fixed.zs"
+hash = "f2d85949f88c674bc0838eb41638dcb4d7cadedfcca33a1b2d6fb7ae46e01512"
+
+[[files]]
+file = "scripts/8x Stairs - Applied Energistics 2 (1.7).zs"
+hash = "a757c042b37ec9262ccad101239f4705a94ffcb64292448ee4b2dcb1dc917949"
+
+[[files]]
+file = "scripts/8x Stairs - Biomes O' Plenty (1.7).zs"
+hash = "a7fa308d4fd1e861d6bfc78b64c589e9e8f7fe5969806cee617cd01d976949c8"
+
+[[files]]
+file = "scripts/8x Stairs - Chisel (1.7).zs"
+hash = "3d3428a56d7fbc968c778c30606fc002b13cf72da8b73e0a3db06b2b4ee8f8a7"
+
+[[files]]
+file = "scripts/8x Stairs - Thaumcraft (1.7).zs"
+hash = "25648e6f124fb206d0f32c9f81525f72051eb9503a1864c16d79c341eefa5c5c"
+
+[[files]]
+file = "scripts/8x Stairs - Vanilla (1.7).zs"
+hash = "fa5f37f8d51242c47e10896d3d078993779ecc7935c39f40998964282e46352e"
+
+[[files]]
+file = "scripts/ExtraTiC-patches-Thaumcraft-1.2_withoutmana.zs"
+hash = "79349dd74293485bc97c0b4e9e353a4e9b97492b0251d9766ca231424492a527"
+
+[[files]]
+file = "scripts/IronChests%20%2B%20Extra%20Carts.zs"
+hash = "6363791876f5286782a6119ad0eb299ea81eb6b2994ec5219f1eee3fec807ec7"

@@ -1,0 +1,13 @@
+name = "World Tooltips"
+filename = "World-Tooltips-1.7.10-1.2.3-79.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92494d49bc8944c24ed9a270d119df5373140302"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2357534
+project-id = 241545

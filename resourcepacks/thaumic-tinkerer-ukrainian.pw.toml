@@ -1,0 +1,13 @@
+name = "Thaumic Tinkerer Ukrainian"
+filename = "Thaumic Tinkerer Ukrainian 1.0.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c848642bf9751a71f9d2029962e820b8b3502011"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4875218
+project-id = 921009

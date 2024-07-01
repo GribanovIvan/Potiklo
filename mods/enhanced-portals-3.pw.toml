@@ -1,0 +1,13 @@
+name = "Enhanced Portals 3"
+filename = "EnhancedPortals_1.7.10-universal-3.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd5864a46f77b51cb92428e882e68d921aa66a6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2242378
+project-id = 225921

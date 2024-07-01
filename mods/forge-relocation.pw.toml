@@ -1,0 +1,13 @@
+name = "Forge Relocation"
+filename = "ForgeRelocation-0.0.1.4-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d244ca0d9d0f6d1b9cc68a5aa10779fa51b168c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2249874
+project-id = 232075

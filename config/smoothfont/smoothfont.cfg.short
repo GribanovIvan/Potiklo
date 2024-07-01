@@ -1,0 +1,15 @@
+# Configuration file
+
+~CONFIG_VERSION: 4
+
+common {
+    I:blurReduction=0
+    B:enableAlphaBlend=false
+    B:enableInterpolation=false
+    S:fontName=Minecraft 1.1
+    I:overlayLodBias=-10
+    I:fontSpaceWidth=3
+    I:shadowLength=7
+}
+
+

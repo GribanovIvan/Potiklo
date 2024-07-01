@@ -1,0 +1,13 @@
+name = "ExtraTiC"
+filename = "ExtraTiC-1.7.10-1.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2453d27979b69339e23c14d6fecb1a721c0a4ef1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2299292
+project-id = 72728

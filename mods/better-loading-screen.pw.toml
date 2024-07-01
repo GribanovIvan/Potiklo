@@ -1,0 +1,13 @@
+name = "Custom Loading Screen"
+filename = "BetterLoadingScreen-1.3.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9d673415deca85afb42e7e698d932691f27d8a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2414751
+project-id = 229302

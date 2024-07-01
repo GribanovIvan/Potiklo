@@ -1,0 +1,13 @@
+name = "Gadomancy Ukrainian"
+filename = "Gadomancy Ukrainian 1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca9705ae42b2e43250cfdda62b0e041e81785fd0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4847773
+project-id = 934630

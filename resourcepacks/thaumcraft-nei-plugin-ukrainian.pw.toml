@@ -1,0 +1,13 @@
+name = "Thaumcraft NEI Plugin Ukrainian"
+filename = "Thaumcraft NEI Plugin Ukrainian 1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfbb5a3531d423b8dcb3f1d65f31b9e8190e3b40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5436132
+project-id = 1038456

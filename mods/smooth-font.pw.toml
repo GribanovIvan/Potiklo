@@ -1,0 +1,13 @@
+name = "Smooth Font"
+filename = "SmoothFont-1.7.10-1.15.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5587c9c50eef67f8fa10bb25ac9fe179e627acff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2614474
+project-id = 285742

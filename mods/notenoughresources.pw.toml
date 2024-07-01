@@ -1,0 +1,13 @@
+name = "NotEnoughResources"
+filename = "NotEnoughResources-1.7.10-0.1.0-128.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8da5097b7b13050f246ced9573eee23d5e069c2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2323485
+project-id = 225815

@@ -1,0 +1,13 @@
+name = "ParticleLib"
+filename = "ParticleLib - 1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72e269a1074f4e6338d4bf0f7d30d22eae16cc92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2248888
+project-id = 233149

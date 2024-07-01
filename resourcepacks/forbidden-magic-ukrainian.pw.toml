@@ -1,0 +1,13 @@
+name = "Forbidden Magic Ukrainian"
+filename = "Forbidden Magic Ukrainian 1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ed21d3cb392c0c664373d41713480ac391c70e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4830513
+project-id = 923903

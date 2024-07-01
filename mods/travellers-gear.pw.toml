@@ -1,0 +1,13 @@
+name = "Traveller's Gear"
+filename = "TravellersGear-1.7.10-1.16.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e59570024a10dbf53f154f428f01f5fc2180b9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2262112
+project-id = 224440
