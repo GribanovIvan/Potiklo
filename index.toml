@@ -1,8 +1,188 @@
 hash-format = "sha256"
 
 [[files]]
+file = "AppleCore-3.3.0.jar"
+hash = "48723d07b026684c62499c50a3d5b21c740d0badc962ecc4ca6b17d4ceae2978"
+
+[[files]]
+file = "BaublesExpanded-2.1.4.jar"
+hash = "34904528d8c83590c9b2aa67e98490c5e3691360ea52d2908576124c25d08e48"
+
+[[files]]
+file = "BetterAchievements-0.3.0.jar"
+hash = "3fe25c63b81cde07bcfa6ed8142a5dc68490381e4e108fadee60170197250697"
+
+[[files]]
+file = "BetterBuildersWands-0.12.0-GTNH.jar"
+hash = "23a632173b833b619d0c1edd655f38db527a398ee385ef2d026e5a709ec47356"
+
+[[files]]
+file = "Forbidden.Magic-0.7.0-GTNH.jar"
+hash = "e87a8d4cd6477b14eebe07177a2c33185cc903ac7c04367c558a401c4dbec7d3"
+
+[[files]]
+file = "ForgeMultipart-1.5.0.jar"
+hash = "6f8a54ddeaaa091122136c64ec738c9863fda68e9365cd0532a8417e11f19b53"
+
+[[files]]
+file = "INpureCore-1.2.0-GTNH.jar"
+hash = "0f49cc16a3440d1a20173c0d4c936b3ac975282bba82b900531f4b3805d7880a"
+
+[[files]]
+file = "IronChest-6.0.85.jar"
+hash = "cfedeccb9c6091f3e8dc120c1eb0b41c71b19a908dd01b7c8136aff3a0d94598"
+
+[[files]]
+file = "IronChestMinecarts-1.1.0.jar"
+hash = "9b601f4dd865c83623a710763e35f935a6405129bf600f44aaf025be4476e4f0"
+
+[[files]]
+file = "Mantle-0.4.1.jar"
+hash = "f0fa456cfc6306f03d12601defaf3b370b4b03cc15c7c49b1b6ea89f6a4dd673"
+
+[[files]]
+file = "ModTweaker2-0.11.0.jar"
+hash = "49f22f91513373bec381be960355bbe67c83be2f6acbe97b8c2f7b8ddc2f5755"
+
+[[files]]
+file = "MouseTweaks-2.4.17-GTNH.jar"
+hash = "6aad3b93a6796a66910021f5f63797721c5f370eea7df91cd85006278edd939b"
+
+[[files]]
+file = "MrTJPCore-1.2.1.jar"
+hash = "d2d8e6cdd6f4c8c955d49c6ace47d66acaa50772f5fec30170e8dfa19574ef33"
+
+[[files]]
+file = "NEIAddons-1.16.0.jar"
+hash = "3ab0e3286b21887887920728f8e0164dd7e8c7e7c104cd95135588d3e080a768"
+
+[[files]]
+file = "NEIIntegration-1.4.0.jar"
+hash = "484cabee25950ca2b6d3d34722242b85638d271397d4dac5d5c6a87f8f3f019c"
+
+[[files]]
+file = "NotEnoughItems-2.6.13-GTNH-pre.jar"
+hash = "6198cdeef0b1a10860d94446fe5366a6f921c9d108849294ad59aae0271ec08d"
+
+[[files]]
+file = "OpenBlocks-1.10.0-GTNH.jar"
+hash = "5bb11963c3d4682811dc153d29f9473afef971d3433244cb0bdccc53df29e82c"
+
+[[files]]
+file = "OpenComputers-1.10.13-GTNH-pre.jar"
+hash = "1d61be7fc7707bc6b3adc9dfe0b3da6d309aecd65cb51452bc7eed5abe27cc96"
+
+[[files]]
+file = "OpenGlasses-1.5.0-GTNH.jar"
+hash = "fca630ad16f98b793680a00cac1336b962c84241680e2a0bd33ab070758b7c3e"
+
+[[files]]
+file = "OpenModsLibs-0.10.9.jar"
+hash = "9028efa71dc98ca80aff9cfe9bb0f55ebe11ee381579ba9f04a4d028f3ad928f"
+
+[[files]]
+file = "RTG-1.1.3-GTNH.jar"
+hash = "43dc05e27053c557d9d3ffb8bd5040058906686a7a278ce566f2bed0039c9594"
+
+[[files]]
+file = "RandomThings-2.5.3.jar"
+hash = "2cc48da5361170eae181eca045fd4300f53543dabf7ea5959d0770849f7d7bb0"
+
+[[files]]
+file = "TConstruct-1.12.4-GTNH.jar"
+hash = "c189c939944386e2adddbaf7f10e94c9b174ef62ea7ec4c2856035e8ad1bf278"
+
+[[files]]
+file = "ThaumcraftMobAspects-1.1.0-GTNH.jar"
+hash = "98658f7fa0fde1442a9cf9ef0904b85464b564454b978d48042b37dd8661a8f1"
+
+[[files]]
+file = "ThaumcraftResearchTweaks-1.1.0.jar"
+hash = "9e3624a3e3d4c5cb18e453ac7b345b1f418a62fadbc3709425f481bb61dfde59"
+
+[[files]]
+file = "Thaumic-Based-1.7.4.jar"
+hash = "11d0916c87afb2b6c25719418c7249433bbb5e372175243fbde5c5b7ec02c3ca"
+
+[[files]]
+file = "Thaumic-Exploration-1.3.3-GTNH.jar"
+hash = "648896876ed43abbebe636b68d8cfa94a2fefb26ecbba70e7ac84e9d159808ac"
+
+[[files]]
+file = "ThaumicHorizons-1.6.1.jar"
+hash = "09c9256f2283962a48be6dd6643b1e2e5c6a26c482e455f5d2bf68d34a1b0b1c"
+
+[[files]]
+file = "ThaumicTinkerer-2.10.0.jar"
+hash = "4e93a7ca0551e25c04f1568934eaff15f6b38cf845a0afd60e2aa52401e9b77a"
+
+[[files]]
+file = "TiCTooltips-1.3.1.jar"
+hash = "da83e7029dedaf7e21e9df754ebe876d040a6380e4ba40e7e7e9abf6cf9a42d5"
+
+[[files]]
+file = "TwilightForest-2.6.28-pre.jar"
+hash = "b04814a3e18d30285bccd475b40d4a3c3e45a38988633a04e233976128d3ed0a"
+
+[[files]]
+file = "WAILAPlugins-0.4.0.jar"
+hash = "41809936282699629261757d65e532bff69172dd61658c9dab141548b19cd894"
+
+[[files]]
+file = "Waila-1.8.0.jar"
+hash = "f38c513cf24ee3037895e6d26c8a1cb96e475c5c85c9b5d40d68999f8ab9edba"
+
+[[files]]
+file = "WarpTheory-1.3.7-GTNH.jar"
+hash = "7a579c8402552ef4efb75cadddb30f7504d3629c9d530210aa5ead53f01de9b5"
+
+[[files]]
+file = "Wawla-1.3.0-GTNH.jar"
+hash = "7a2de6293c8e4d485c67ef009e9f7ddce8bf99cc3f6da2a5c69d03afb2cb0cd5"
+
+[[files]]
+file = "ae2fc-1.3.12-gtnh.jar"
+hash = "ec7231f0d4c862e6e70bd77f0d002a1c441605d10c2eef1c43f684c4608e50b2"
+
+[[files]]
+file = "ae2stuff-0.8.2-GTNH.jar"
+hash = "9fe5ed0857a4a243ebcd444838afb57249d7d72b0ad13229475491a0662f0608"
+
+[[files]]
+file = "aether-1.7.10-1.1.2.2.jar"
+hash = "e27ab0daf2b77009ab9078d438dde7e57b31f9cffe3c5136e4714daf249391fa"
+
+[[files]]
+file = "appliedenergistics2-rv3-beta-407-GTNH-pre.jar"
+hash = "e1f802fecfa91797080805641c85ef7c454fa43b6023ca47b6fbf2c38302a457"
+
+[[files]]
+file = "backpack-2.4.2-GTNH.jar"
+hash = "d365da4464c835ef25d06afc21a95791fa1e9a7974f126454f4373bd9ecdf409"
+
+[[files]]
+file = "bdlib-1.10.0-GTNH.jar"
+hash = "41915d221fc04af9483fc3d25ef243f126ecaf7836d857a6cc0b0a8cb0071414"
+
+[[files]]
+file = "bettercrashes-1.4.0-GTNH.jar"
+hash = "8f2edf1d9616af82fb00a5d8c50a145aab203141bddb1e8aeb8ceb0a2eabd33a"
+
+[[files]]
 file = "betterfps.txt"
 hash = "a59ad8f585ba4ef55f665edc835d2bdf9d760b8cf4b445ebce72beb26d8133c1"
+
+[[files]]
+file = "bugtorch-1.2.14-GTNH.jar"
+hash = "b5604dffa58f4b91309d2fd6746bfb46f501b392bdf3a0144ad1040fd437696f"
+
+[[files]]
+file = "chisel-2.15.0-GTNH.jar"
+hash = "98d0089dea675fb8d213b507caf1a599b9be7e2e09e52a13eed041153d49f813"
+
+[[files]]
+file = "chiseltones-1.2.0-GTNH.jar"
+hash = "2ba342849dee538490091a506b87fef63b107af2e672a910f85497b45c092d34"
 
 [[files]]
 file = "config/CodeChickenCore.cfg"
@@ -10,7 +190,7 @@ hash = "8e1fc144ddf5e5fc37466db1e7ef41d52139d9bf8135ffabd045ec1bffce7797"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "498013c2e1449cf9fd6ab74e43fe068defe013daf24789f9001a2cfd1c36320a"
+hash = "77230ceb475ef692f07812f8bd780067194dd9301e7b0e0a5cd63ee036c1a8d9"
 
 [[files]]
 file = "config/DimDoors.cfg"
@@ -117,8 +297,52 @@ file = "config/splash.properties"
 hash = "fb5ff1984232edecfce6fbfa6deb6374bcd7bf898f58d2c51b9e46cbbbbb78fe"
 
 [[files]]
+file = "controlling-2.1.0.jar"
+hash = "f3848f5e976fadcf6b4255da5a3acc962b7d18c04969a1786e2e155601a55e16"
+
+[[files]]
+file = "creativecore-1.4.0-GTNH.jar"
+hash = "4a7a55187f9dca1e1d5768910f3fe6a97b85635412182782680e80019ab0c2ed"
+
+[[files]]
+file = "endercore-0.4.6.jar"
+hash = "422d90d1f17d50df13e1988bc0657a270a946e6147deba79461607e206e27d3b"
+
+[[files]]
+file = "findit-1.3.2.jar"
+hash = "f33a3e23245474d09cebabc9730c373b62b5f6a36b0e269a69c59da5b9ea9f11"
+
+[[files]]
 file = "fontfiles/Minecraft 1.1.ttf"
 hash = "702eb1c74b7bb484b8d40d4ecdcebb8b7021e5eebed3c8cf669464e9d8702c31"
+
+[[files]]
+file = "forgelin-1.10.0-GTNH.jar"
+hash = "a3e817e0ccbc6f16f8f468941e6256068b488932abac2a160666909844f76125"
+
+[[files]]
+file = "gadomancy-1.3.4-pre.jar"
+hash = "c51383c2009ce192847e2d454856baa28610a37f85d89aba1cf6456fb4c1486a"
+
+[[files]]
+file = "gtnhlib-0.3.1.jar"
+hash = "3d28e48a999693411f2caa6343b109894c78b8745386d4eebdfe533e118650f0"
+
+[[files]]
+file = "hodgepodge-2.5.26-pre.jar"
+hash = "ba8c9187cd2de3ee6aee849b2789d7edd560812367f9fa02e8956b5cbf8d1aae"
+
+[[files]]
+file = "holoinventory-2.4.12-GTNH.jar"
+hash = "7f70727dbb95523d466ab4dcb07e27c68dd21455826f64c57cfe4fc1674349b0"
+
+[[files]]
+file = "inventorytweaks-1.6.2.jar"
+hash = "cb16f95e9ae15321f42563613d7d766104af5388eb41b3720ca49cdc45904187"
+
+[[files]]
+file = "littletiles-1.3.0-GTNH.jar"
+hash = "adecc8554edf0887847e1395e6a9b467e36df557f92b7c57467ae1dbf1930bca"
 
 [[files]]
 file = "mods/AppleCore-3.3.0.jar"
@@ -377,6 +601,11 @@ hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
 metafile = true
 
 [[files]]
+file = "mods/contenttweaker.pw.toml"
+hash = "3ce9bcc66e1bc52343a0652ce074495f4701b034310a84b510def78d1e1804c4"
+metafile = true
+
+[[files]]
 file = "mods/controlling-2.1.0.jar"
 hash = "f3848f5e976fadcf6b4255da5a3acc962b7d18c04969a1786e2e155601a55e16"
 
@@ -460,6 +689,11 @@ hash = "f33a3e23245474d09cebabc9730c373b62b5f6a36b0e269a69c59da5b9ea9f11"
 [[files]]
 file = "mods/floating-rails.pw.toml"
 hash = "581c5942b0cd3c1cec3771e535416b03fa3c0131acafb1789a649f4f18f3e635"
+metafile = true
+
+[[files]]
+file = "mods/fluxed-core.pw.toml"
+hash = "529ad7219381a4fef9f3e07266edaa4d35d7c1fd2cf58ecd31626afc4a7db35b"
 metafile = true
 
 [[files]]
@@ -699,8 +933,28 @@ hash = "c03b3236b7169f8999bee4b3863f0ec725cf4ffe07ff9f9b8a021484331c468b"
 metafile = true
 
 [[files]]
+file = "naturescompass-1.4.4-GTNH.jar"
+hash = "441361248c763ef6c46d056005b37335474439b84ae777c9df51701bd0b0ffc4"
+
+[[files]]
+file = "netherportalfix-1.3.0.jar"
+hash = "ec60e16c3422c8c3a5149c7265531c38838557c35a7ef4ab8b327f0c166b28a3"
+
+[[files]]
+file = "openprinter-0.3.0-GTNH.jar"
+hash = "5d9b0d77c81ff35b97fbb78f006c4f60c8339ac7d09e4f5fdb963dbbc349dd5a"
+
+[[files]]
+file = "opensecurity-1.1.1-GTNH.jar"
+hash = "3ef9560c511f4f106d484ae500a50b4fc442f90c523fc6ca70ba109983d2d94d"
+
+[[files]]
 file = "options.txt"
 hash = "cc141ff749335a563448c6a7079c320d2296c4985d3d8df6880ba536b651c6ff"
+
+[[files]]
+file = "overloadedarmorbar-1.1.0.jar"
+hash = "bee208324d723d37b59c04c1b29e47606657d0b94700ce1da456ac3f0a2e5975"
 
 [[files]]
 file = "resourcepacks/applied-energistics-2-ukrainian.pw.toml"
@@ -742,6 +996,10 @@ file = "resources/potiklo/textures/bohdan.png"
 hash = "aecb79e583a5a311542bc0fd41f64c8c64b2fcd81a14a6ab69efcf07f79ccb36"
 
 [[files]]
+file = "roguelike-1.6.0-GTNH.jar"
+hash = "92b2c59fa4034445d3d111657c6b812df138aff38cd7141ea6cfad6b010db9f5"
+
+[[files]]
 file = "scripts/1.7.10-AetherLegacy-Aspects.zs"
 hash = "e9743d6a0a720025943266ea0de488c1732bab73eb75af52acde85be65a8f7ed"
 
@@ -776,3 +1034,23 @@ hash = "79349dd74293485bc97c0b4e9e353a4e9b97492b0251d9766ca231424492a527"
 [[files]]
 file = "scripts/IronChests%20%2B%20Extra%20Carts.zs"
 hash = "6363791876f5286782a6119ad0eb299ea81eb6b2994ec5219f1eee3fec807ec7"
+
+[[files]]
+file = "tcinventoryscan-1.2.0-GTNH.jar"
+hash = "bfd958162eed46b0fc4301516edbbdd675dd7e6acb3a84f64ecacf4e5077d4ff"
+
+[[files]]
+file = "tcneiadditions-1.4.0.jar"
+hash = "ab291e13dde3eebd0d0269949c2a8b5c85b2b8e7962361b3a9d3ec1fa7923b66"
+
+[[files]]
+file = "tcnodetracker-1.3.0.jar"
+hash = "a1651ef9aa667a2f8a3fcf74877c1f70b980f74a42ec4a454e476036e8731d99"
+
+[[files]]
+file = "thaumicenergistics-1.6.11-GTNH-pre.jar"
+hash = "ae0d405b6ad9232836bef4224f948a09ca9f54dbc343a039657e91b069222dd4"
+
+[[files]]
+file = "torohealth-1.1.0.jar"
+hash = "5ea94105e8f236c2fa1315f83c76c83f9e428e40a1175cd527a95dd19fbf4a0d"

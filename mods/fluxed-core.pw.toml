@@ -1,0 +1,13 @@
+name = "Fluxed-Core"
+filename = "Fluxed-Core-MC1710-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54e4d5b5bd54d2e102397ac0e527deb5926dcdd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2288074
+project-id = 237039
