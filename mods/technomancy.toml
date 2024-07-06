@@ -1,0 +1,12 @@
+name = "Technomancy"
+filename = "ThaumicInfusion-4.32.jar"
+
+[download]
+hash-format = "md5"
+hash = "e82ecdaa7f39b246c0c21a926047098f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 229912
+project-id = 2295819

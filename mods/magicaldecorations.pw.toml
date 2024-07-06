@@ -1,0 +1,13 @@
+name = "MagicalDecorations"
+filename = "MagicalDecorations-0.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd3a65a453130c384d96ce64d65d3764dabafbc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2247215
+project-id = 228839

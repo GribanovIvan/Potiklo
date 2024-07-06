@@ -1,0 +1,13 @@
+name = "Thaumic Dyes"
+filename = "Thaumic-Dyes-[1.7.10] 1.10.5-0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81f49d5b7a95d53ec10af3080d3b820df18fc392"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2623451
+project-id = 251561

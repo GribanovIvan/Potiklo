@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
-resourcePacks:["Thaumic Energistics Ukrainian 1.0.1.zip","AE2 Ukrainian 1.0.1.zip","Gadomancy Ukrainian 1.0.0.zip","Thaumic Tinkerer Ukrainian 1.0.3.zip","Forbidden Magic Ukrainian 1.0.1.zip","Thaumcraft 4 Ukrainian 1.0.6.zip","Thaumcraft NEI Plugin Ukrainian 1.0.zip"]
+resourcePacks:["Thaumic Energistics Ukrainian 1.0.1.zip","AE2 Ukrainian 1.0.1.zip","Gadomancy Ukrainian 1.0.0.zip","Thaumic Tinkerer Ukrainian 1.0.3.zip","Forbidden Magic Ukrainian 1.0.1.zip","Thaumcraft NEI Plugin Ukrainian 1.0.zip"]
 lastServer:172.22.12.34
 lang:uk_UA
 chatVisibility:0
@@ -27,7 +27,7 @@ snooperEnabled:true
 fullscreen:false
 enableVsync:false
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 showCape:true
 touchscreen:false
@@ -98,19 +98,23 @@ key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
 key_smoothfont.key.guiOpen:199
 key_Baubles Inventory:0
-key_Change Wand Focus:0
+key_Change Wand Focus:33
 key_Activate Hover Harness:0
 key_Misc Wand Toggle:0
-key_key.OpenTerminal:0
-key_key.aether.accessory_menu:23
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_key.OpenTerminal:0
+key_key.aether.accessory_menu:0
 key_Automagy.key.focusCrafting:46
 key_bbw.key.mode:0
 key_bbw.key.fluidmode:0
+key_key.tarmor:0
+key_key.tgoggles:0
+key_key.tbelt:0
+key_key.tzoom:0
 key_key.craftingtweaks.rotate:19
 key_key.craftingtweaks.balance:48
 key_key.craftingtweaks.clear:46
@@ -118,10 +122,6 @@ key_key.craftingtweaks.toggleButtons:0
 key_key.craftingtweaks.compress:37
 key_key.craftingtweaks.decompress:0
 key_Dynamic Lights toggle:38
-key_key.tarmor:0
-key_key.tgoggles:0
-key_key.tbelt:0
-key_key.tzoom:0
 key_ttmisc.toggleArmor:0
 key_FpsReducer.key.guiOpen:207
 key_[GC] Galaxy Map:50
@@ -134,6 +134,10 @@ key_key.littletiles.rotateright:0
 key_key.littletiles.rotateleft:0
 key_key.littletiles.flip:0
 key_key.littletiles.mark:0
+key_key.magianaturalis.size.add:78
+key_key.magianaturalis.size.sub:74
+key_key.magianaturalis.misc:47
+key_key.magianaturalis.pickBlock:-98
 key_key.materialCosts:0
 key_key.clipboardPaste:0
 key_key.openglasses.interact:0
@@ -145,6 +149,8 @@ key_Toggle Spider Climb:0
 key_Toggle Chameleon Skin:0
 key_TG.keybind.openInv:0
 key_TG.keybind.activeaAbilities:0
+key_key.cofh.empower:0
+key_key.cofh.multimode:0
 key_key.betterfoliage.gui:66
 key_key.control:0
 key_key.entityculling.toggle:-1

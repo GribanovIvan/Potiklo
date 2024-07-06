@@ -1,0 +1,12 @@
+name = "Thaumic Infusion"
+filename = "ThaumicInfusion-4.32.jar"
+
+[download]
+hash-format = "md5"
+hash = "ec7f1c29b681a8d4dc4d1fe60e4350d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 220308
+project-id = 2275434

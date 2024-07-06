@@ -1,0 +1,13 @@
+name = "Ascribe"
+filename = "Ascribe-1.7.10-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "152eba141d7f4f123f0b9a0c1aa2e86a88594487"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2285768
+project-id = 242589

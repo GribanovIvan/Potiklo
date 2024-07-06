@@ -1,0 +1,12 @@
+name = "Another One Bites the Dust"
+filename = "AOBD-2.9.2.jar"
+
+[download]
+hash-format = "md5"
+hash = "0864caf4280229154ca7f158502d4bee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2305237
+project-id = 221863

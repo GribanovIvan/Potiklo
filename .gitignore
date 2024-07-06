@@ -2,5 +2,7 @@
 fontfiles
 *.zip
 *-*.zs
-IronChests*Carts.zs
+*s.zs
+*Aspect*.zs
 *.zip
+resources/thaumcraft
