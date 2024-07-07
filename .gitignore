@@ -6,3 +6,5 @@ fontfiles
 *Aspect*.zs
 *.zip
 resources/thaumcraft
+bohdan_*.png
+!bohdan_4.png

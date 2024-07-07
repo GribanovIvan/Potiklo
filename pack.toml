@@ -1,12 +1,12 @@
 name = "Potiklo"
 author = "GribanovIvan"
-version = "0.3.2-1"
+version = "0.4.0-1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4e6f7c2276f66f81d2826ea9937d6ede7591e9bfee225525760eb1caba1fa6b7"
+hash = "e3283e420e9395d807f701835a3fc867f8da77367d9e50e16f111c554a55346e"
 
 [versions]
 forge = "10.13.4.1614"

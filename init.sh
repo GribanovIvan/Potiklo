@@ -25,4 +25,10 @@ unzip Minecraft%201.1.zip
 mkdir -p fontfiles
 mv 'Minecraft 1.1.ttf' fontfiles
 rm Minecraft%201.1.zip
+cd resources/potiklo/textures
+magick bohdan.png -gravity west -chop 200x0 -gravity east -chop 240x0 bohdan_0.png
+oxipng -o max bohdan_0.png || optipng -o7 bohdan_0.png || echo "Install oxipng and run init.sh again for better bohdan compression"
+for f in {1..3};do ln -s bohdan_0.png bohdan_$f.png;done
+ln -s bohdan_4.png bohdan_5.png
+cd ../../..
 sh up.sh
