@@ -81,19 +81,6 @@
             {
                 "type" : "quit"
             }
-        },
-        "refresh":
-        {
-            "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
-            }
         }
     },
     
@@ -104,17 +91,21 @@
         {
             "text" : "",
             "posX" : 2,
-            "posY" : -50,
+            "posY" : -55,
             "color" : -1,
             "alignment" : "bottom_left"
         },
         "Potiklo":
         {
-            "text" : "Potiklo ver 0.4.0-1",
+            "text" : "Potiklo ver 0.4.1-1",
             "posX" : -90,
             "posY" : -10,
             "color" : 255255,
-            "alignment" : "bottom_right"
+            "alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "refresh"
+            }
         }
     },
     
@@ -131,11 +122,11 @@
 
         "panorama":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "images" : "Potiklo:textures/bohdan_%c.png",
             "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
+            "animationSpeed" : 5,
+            "blur" : false,
+            "gradient" : false
         }
     }
 }

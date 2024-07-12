@@ -1,5 +1,5 @@
 name = "Thaumic Infusion"
-filename = "ThaumicInfusion-4.32.jar"
+filename = "ThaumicInfusion-1.7.10-Hotfix-4.32.jar"
 
 [download]
 hash-format = "md5"
@@ -8,5 +8,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 220308
-project-id = 2275434
+file-id = 2275434
+project-id = 220308

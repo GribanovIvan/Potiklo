@@ -1,21 +1,28 @@
-#!/bin/sh
+#!/bin/bash
 
 function download_github {
-    au="$1"; shift
+    counter=0;au="$1";shift
     for arg in "$@"; do
-            echo "Downloading $arg"
-            curl -L https://github.com$(curl $(curl -L https://github.com/$au/$arg/releases/latest 2>/dev/null| grep src | grep expanded|cut -d\" -f6) 2>/dev/null  |grep href | grep -v sources | grep -v dev | grep -v api | grep -v processor | grep jar | cut -d\" -f2) -O 2>/dev/null
-    done
+            counter=$((counter + 1))
+            if ((counter % 2));then
+                    link=https://github.com$(curl $(curl -L https://github.com/$au/$arg/releases/latest 2>/dev/null | grep src | grep expanded|cut -d\" -f6) 2>/dev/null  |grep href | grep -v sources | grep -v dev | grep -v api | grep -v processor | grep jar | cut -d\" -f2)
+                    remote=$(echo $link | cut -d/ -f9)
+                    if [ "$remote" == $2 ]; then echo -e "\e[90m$2 is up-to-date...\e[39m"
+		    else if [[ $2 == *\** ]]; then echo -e Downloading $remote
+                        else echo -e "\e[1mUpdating $2 -> $remote\e[0m";rm $2
+                    fi
+                    curl -LO $link 2>/dev/null
+    fi;fi;shift;done
 }
 
 mkdir -p resources/thaumcraft/lang
 curl -L -o resources/thaumcraft/lang/uk_UA.lang https://github.com/GribanovIvan/tc4-ua/raw/master/assets/thaumcraft/lang/uk_UA.lang
 cd mods
-rm adventurebackpack-*.jar ae2stuff-*.jar gtnhlib-*.jar backpack-*.jar INpureCore-*.jar ae2fc-*jar bugtorch-*.jar littletiles-*.jar MouseTweaks-*.jar bdlib-*.jar angelica-*.jar appliedenergistics2-*.jar BaublesExpanded-*.jar findit-*.jar Forbidden.Magic-*.jar AppleCore-*.jar BetterBuildersWands-*.jar *hisel*.jar opensecurity-*.jar bettercrashes-*.jar BetterAchievements-*.jar Wawla-*.jar Waila*.jar Tainted-Magic-*.jar TwilightForest-*.jar torohealth-*.jar TiCTooltips-*.jar TConstruct-*.jar  ThaumicTinkerer-*.jar tcinventoryscan-*.jar  thaumicenergistics-*.jar Thaumic-Based-*.jar Thaumic-Exploration-*.jar ThaumcraftMobAspects-*.jar ThaumcraftResearchTweaks-*.jar WarpTheory-*.jar tcnodetracker-*.jar tcneiadditions-*.jar creativecore-*.jar holoinventory-*.jar inventorytweaks-*.jar WAILAPlugins-*.jar roguelike-*.jar RandomThings-*.jar naturescompass-*.jar NEIAddons-*.jar NEIIntegration-*.jar netherportalfix-*.jar NotEnoughItems-*.jar OpenComputers-*.jar OpenGlasses-*.jar *pen*rinter-*.jar overloadedarmorbar-*.jar endercore-*.jar Mantle-*.jar aether-1.7.10-*.jar OpenBlocks-*.jar OpenModsLibs-*.jar controlling-*.jar IronChest*.jar ForgeMultipart-*.jar  MrTJPCore-*.jar ModTweaker2-*.jar CraftTweaker-*.jar RTG-*.jar IronChestMinecarts-*.jar hodgepodge-*.jar lwjgl3ify-*.jar ThaumicHorizons-*.jar forgelin-*.jar gadomancy*.jar &
-download_github GTNewHorizons ae2stuff GTNHLib Minecraft-Backpack-Mod INpureCore BugTorch LittleTiles MouseTweaks bdlib AE2FluidCraft-Rework Applied-Energistics-2-Unofficial ChiselTones FindIt ForbiddenMagic AppleCore BetterBuildersWands Chisel OpenSecurity BetterCrashes BetterAchievements WAWLA waila twilightforest ToroHealth TinkersConstruct TiC-Tooltips ThaumicTinkerer  ThaumicEnergistics ThaumicBases ThaumicInventoryScanning Thaumic_Exploration ThaumcraftMobAspects thaumcraft-research-tweaks WarpTheory TCNodeTracker TCNEIAdditions CreativeCore HoloInventory inventory-tweaks WAILAPlugins Roguelike-Dungeons Random-Things NaturesCompass neiaddons NEI-Integration NetherPortalFix NotEnoughItems OpenComputers OCGlasses OpenPrinter OverloadedArmorBar EnderCore Mantle The-Aether-GTNH OpenBlocks OpenModsLib Controlling ironchest ForgeMultipart MrTJPCore Hodgepodge ModTweaker Realistic-Terrain-Generation IronChestMinecarts Forgelin ThaumicHorizons Gadomancy Angelica
-download_github jss2a98aj Baubles-Expanded
-download_github KryptonCaptain ThaumicAlchemy ThaumErrata
-download_github unilock LegacyFixes
+
+download_github GTNewHorizons ae2stuff ae2stuff-*.jar GTNHLib gtnhlib-*.jar Minecraft-Backpack-Mod backpack-*.jar INpureCore INpureCore-*.jar BugTorch bugtorch-*.jar LittleTiles littletiles-*.jar MouseTweaks MouseTweaks-*.jar bdlib bdlib-*.jar AE2FluidCraft-Rework ae2fc-*jar Applied-Energistics-2-Unofficial appliedenergistics2-*.jar ChiselTones chiseltones-*.jar FindIt findit-*.jar ForbiddenMagic Forbidden.Magic-*.jar AppleCore AppleCore-*.jar BetterBuildersWands BetterBuildersWands-*.jar Chisel chisel-*.jar OpenSecurity opensecurity-*.jar BetterCrashes bettercrashes-*.jar BetterAchievements BetterAchievements-*.jar WAWLA Wawla-*.jar waila Waila*.jar twilightforest TwilightForest-*.jar ToroHealth torohealth-*.jar TinkersConstruct TConstruct-*.jar TiC-Tooltips TiCTooltips-*.jar ThaumicTinkerer ThaumicTinkerer-*.jar ThaumicEnergistics thaumicenergistics-*.jar ThaumicBases Thaumic-Based-*.jar ThaumicInventoryScanning tcinventoryscan-*.jar Thaumic_Exploration Thaumic-Exploration-*.jar ThaumcraftMobAspects ThaumcraftMobAspects-*.jar thaumcraft-research-tweaks ThaumcraftResearchTweaks-*.jar WarpTheory WarpTheory-*.jar TCNodeTracker tcnodetracker-*.jar TCNEIAdditions tcneiadditions-*.jar CreativeCore creativecore-*.jar HoloInventory holoinventory-*.jar inventory-tweaks inventorytweaks-*.jar WAILAPlugins WAILAPlugins-*.jar Roguelike-Dungeons roguelike-*.jar Random-Things RandomThings-*.jar NaturesCompass naturescompass-*.jar neiaddons NEIAddons-*.jar NEI-Integration NEIIntegration-*.jar NetherPortalFix netherportalfix-*.jar NotEnoughItems NotEnoughItems-*.jar OpenComputers OpenComputers-*.jar OCGlasses OpenGlasses-*.jar OpenPrinter *pen*rinter-*.jar OverloadedArmorBar overloadedarmorbar-*.jar EnderCore endercore-*.jar Mantle Mantle-*.jar The-Aether-GTNH aether-1.7.10-*.jar OpenBlocks OpenBlocks-*.jar OpenModsLib OpenModsLibs-*.jar Controlling controlling-*.jar ironchest IronChest-*.jar ForgeMultipart ForgeMultipart-*.jar MrTJPCore MrTJPCore-*.jar Hodgepodge hodgepodge-*.jar ModTweaker ModTweaker*.jar  Realistic-Terrain-Generation RTG-*.jar IronChestMinecarts IronChestMinecarts-*.jar Forgelin forgelin-*.jar ThaumicHorizons ThaumicHorizons-*.jar Gadomancy gadomancy*.jar Angelica angelica-*.jar Tainted-Magic Tainted-Magic-*.jar
+download_github jss2a98aj Baubles-Expanded BaublesExpanded-*.jar
+download_github KryptonCaptain ThaumicAlchemy Thaumic-Alchemy-*.jar ThaumErrata Thaumic-Errata-*.jar
+download_github unilock LegacyFixes legacyfixes-*.jar
 cd ..
 packwiz update --all -y
 packwiz refresh

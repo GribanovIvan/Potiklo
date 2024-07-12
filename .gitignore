@@ -1,10 +1,10 @@
 *.jar
 fontfiles
 *.zip
-*-*.zs
-*s.zs
-*Aspect*.zs
+*.zs
 *.zip
 resources/thaumcraft
 bohdan_*.png
 !bohdan_4.png
+!naturalis.zs
+!TRT.zs

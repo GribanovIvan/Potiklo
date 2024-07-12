@@ -1,5 +1,5 @@
 name = "Technomancy"
-filename = "ThaumicInfusion-4.32.jar"
+filename = "Technomancy - 0.12.5 - 1.7.10.jar"
 
 [download]
 hash-format = "md5"
@@ -8,5 +8,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 229912
-project-id = 2295819
+file-id = 2295819
+project-id = 229912
