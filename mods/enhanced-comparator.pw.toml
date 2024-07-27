@@ -1,0 +1,13 @@
+name = "Enhanced Comparator"
+filename = "EnhancedComparator-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e85094fdc2cc3e6ef984bb9a252635de3a7c167"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2211231
+project-id = 223246

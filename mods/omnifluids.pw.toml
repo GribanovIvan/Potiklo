@@ -1,0 +1,13 @@
+name = "Omnifluids"
+filename = "omnifluids-1.7.10-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "1247276220"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2212592
+project-id = 223083

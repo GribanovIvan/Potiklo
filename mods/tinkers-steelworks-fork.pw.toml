@@ -1,0 +1,13 @@
+name = "Tinkers' Steelworks (fork)"
+filename = "TSteelworks-1.7.10-1.1.2-20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6f3892829e3f687260e61fbf984921d2bcd9d07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2283310
+project-id = 233076

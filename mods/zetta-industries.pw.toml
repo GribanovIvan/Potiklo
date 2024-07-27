@@ -1,0 +1,13 @@
+name = "Zetta Industries"
+filename = "zettaindustries-1.1-120.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a563473641e7ef0067571d19dd2778299f84fba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2482398
+project-id = 278475

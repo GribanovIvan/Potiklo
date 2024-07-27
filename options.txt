@@ -1,4 +1,3 @@
-fov:1.0
 gamma:1.0
 renderDistance:20
 guiScale:2
@@ -6,12 +5,10 @@ advancedOpengl:true
 fancyGraphics:true
 resourcePacks:["Thaumic Energistics Ukrainian 1.0.1.zip","AE2 Ukrainian 1.0.1.zip","Gadomancy Ukrainian 1.0.0.zip","Thaumic Tinkerer Ukrainian 1.0.3.zip","Forbidden Magic Ukrainian 1.0.1.zip","Thaumcraft NEI Plugin Ukrainian 1.0.zip"]
 lang:uk_UA
-fullscreen:true
-key_key.use:18
-key_key.inventory:-97
 key_cos.key.openCosArmorInventory:0
 key_Baubles Inventory:0
 key_Change Wand Focus:33
 key_key.aether.accessory_menu:0
 key_FpsReducer.key.guiOpen:0
 key_TG.keybind.openInv:0
+key_Change Arcane Lens:47

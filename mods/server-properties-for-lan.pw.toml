@@ -1,0 +1,13 @@
+name = "Server.Properties for LAN"
+filename = "ServerPropertiesLAN-2.65-1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d027882b5a2d1d9775a1b2cdf5136428ac20010"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2527397
+project-id = 255025

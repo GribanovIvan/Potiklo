@@ -10,7 +10,7 @@ hash = "8e1fc144ddf5e5fc37466db1e7ef41d52139d9bf8135ffabd045ec1bffce7797"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "6bd7c712622065ac898d2332060229634503ac28d3607bf88425a1d4817caa6f"
+hash = "3a951ee51fe87e043ce6cc09a9f619ecd81a1a0b5cbf9989a2b09021105b7458"
 
 [[files]]
 file = "config/DimDoors.cfg"
@@ -19,6 +19,10 @@ hash = "36512468e68ad36c16d76bc89a81a421edd6c5dfb1b212d3b7800e1dbea53326"
 [[files]]
 file = "config/EnhancedPortals/config.cfg"
 hash = "eb1e2029d06c39d5231b16fce32775fe52720485ef37ca9d33f32eb9b1e94bee"
+
+[[files]]
+file = "config/ExtraTiC.cfg"
+hash = "00270b257181a4718aeb1088e327525d49937424feb61aed202102a578cb3e9d"
 
 [[files]]
 file = "config/FpsReducer/FpsReducer.cfg"
@@ -205,16 +209,12 @@ file = "mods/NEIIntegration-1.4.0.jar"
 hash = "484cabee25950ca2b6d3d34722242b85638d271397d4dac5d5c6a87f8f3f019c"
 
 [[files]]
-file = "mods/NotEnoughItems-2.6.15-GTNH-pre.jar"
-hash = "2b29dfc381087981c5cd25d3228e3c24c7aa05e4c3e9c6b05a70610c0d8f589e"
-
-[[files]]
 file = "mods/OpenBlocks-1.10.0-GTNH.jar"
 hash = "5bb11963c3d4682811dc153d29f9473afef971d3433244cb0bdccc53df29e82c"
 
 [[files]]
-file = "mods/OpenComputers-1.10.15-GTNH.jar"
-hash = "afa5d55523cedcc24f0b8a9f69f8c20ff7413ad8c2abb2e0422751e6afeaa9d4"
+file = "mods/OpenComputers-1.10.16-GTNH.jar"
+hash = "50e3fae536ff3712bc516cd62be09f503cce9f607dfb1598956cf34aff7496d3"
 
 [[files]]
 file = "mods/OpenGlasses-1.5.0-GTNH.jar"
@@ -277,12 +277,8 @@ file = "mods/Thaumic-Utilities-.1.7.10.0.3.12-0.jar"
 hash = "49de849610995b9807bd93fa06541af328d6f5fdbfb8dc0faeb6b20e03be8d02"
 
 [[files]]
-file = "mods/ThaumicHorizons-1.6.1.jar"
-hash = "09c9256f2283962a48be6dd6643b1e2e5c6a26c482e455f5d2bf68d34a1b0b1c"
-
-[[files]]
-file = "mods/ThaumicTinkerer-2.10.0.jar"
-hash = "4e93a7ca0551e25c04f1568934eaff15f6b38cf845a0afd60e2aa52401e9b77a"
+file = "mods/ThaumicTinkerer-2.10.1.jar"
+hash = "d8626cc299e1a1db41b08bf402c0d52ce6c7266a63f8a3fc5c27fc65deb0d223"
 
 [[files]]
 file = "mods/TiCTooltips-1.3.1.jar"
@@ -301,8 +297,8 @@ file = "mods/Waila-1.8.1.jar"
 hash = "fd85ae3526f7ad858da026125d012e3cddfb3bb6d6c48954094dc9cf0f07747e"
 
 [[files]]
-file = "mods/WarpTheory-1.4.0-GTNH.jar"
-hash = "5a935c8768c86fd49b05bf1cff6a0718e9badecd9079d4f08a6ba7bdf93ad074"
+file = "mods/WarpTheory-1.4.1-GTNH.jar"
+hash = "8767f39c467cd93ffd33761758804bb216ca64c87f14b93282c1bb796912dec5"
 
 [[files]]
 file = "mods/Wawla-1.3.0-GTNH.jar"
@@ -313,8 +309,8 @@ file = "mods/WildCaves3-0.4.3.7%281.7.10%29.jar"
 hash = "4cb9c772cbe2974bedc3ce03b2360b2dfc4124294972416f078806ce7d0d87f9"
 
 [[files]]
-file = "mods/ae2fc-1.3.12-gtnh.jar"
-hash = "ec7231f0d4c862e6e70bd77f0d002a1c441605d10c2eef1c43f684c4608e50b2"
+file = "mods/ae2fc-1.3.16-gtnh.jar"
+hash = "a2259f383f35f49e114ca313609c64b271628f28fd2d26c746189667f482c169"
 
 [[files]]
 file = "mods/ae2stuff-0.8.2-GTNH.jar"
@@ -335,8 +331,9 @@ hash = "95b82c66e4c416f40fb812fc1e01ba0a216523c02a2df8a1007806ae9692eeb9"
 metafile = true
 
 [[files]]
-file = "mods/angelica-1.0.0-alpha52.jar"
-hash = "69eadecf579c972de2f4185a2b800cd73a57eb24dffa66609843436e29c99858"
+file = "mods/angelica.pw.toml"
+hash = "a7183b7e40b23ad07a6667b97cb1ce994a5483d752e4b95843c80ab0edd6a120"
+metafile = true
 
 [[files]]
 file = "mods/another-one-bites-the-dust.pw.toml"
@@ -344,12 +341,8 @@ hash = "a6b02475ae306df0e34dac8a8834e0fcfbc8166c695e33d38b819393f791a3fe"
 metafile = true
 
 [[files]]
-file = "mods/appliedenergistics2-rv3-beta-407-GTNH-pre.jar"
-hash = "e1f802fecfa91797080805641c85ef7c454fa43b6023ca47b6fbf2c38302a457"
-
-[[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "5204d2e795ddf555e8496e58917c69149792c30e66ed88d2aca651e442166910"
+hash = "92e0ab3a1611367df378c257cb1e8867b0bf571f64f7e1ddc2e249d608753f39"
 metafile = true
 
 [[files]]
@@ -433,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "c2478e5ed69811923cd4f230923ad41c1fd730a5d94e36be405600f7bfb50566"
+hash = "464fe8226a87e4a584c73f6517b151de339f01ce2a1ce56d8380d92c75264256"
 metafile = true
 
 [[files]]
@@ -454,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/controlling-2.1.0.jar"
 hash = "f3848f5e976fadcf6b4255da5a3acc962b7d18c04969a1786e2e155601a55e16"
+
+[[files]]
+file = "mods/cookiecore.pw.toml"
+hash = "2dd80dfb0a20c36c6ae76cc4846bdd8ec8feafc4c009554358a8fc7cb4016296"
+metafile = true
 
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
@@ -507,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/endercore-0.4.6.jar"
 hash = "422d90d1f17d50df13e1988bc0657a270a946e6147deba79461607e206e27d3b"
+
+[[files]]
+file = "mods/enhanced-comparator.pw.toml"
+hash = "a5664489a7cc6c6a4594c721c164a0bef8d2294aba24e9dd5e6769914a9e09ae"
+metafile = true
 
 [[files]]
 file = "mods/enhanced-portals-3.pw.toml"
@@ -563,7 +566,7 @@ hash = "a3e817e0ccbc6f16f8f468941e6256068b488932abac2a160666909844f76125"
 
 [[files]]
 file = "mods/fplib.pw.toml"
-hash = "6f22f9bc5b37219613c1457f455a3ae64578de315dea3c26d02e0aa465ff588f"
+hash = "1206dd52ccdfd4969fe869ea0c9a5540bbe5639cca67a860e9b78fac7e026a5e"
 metafile = true
 
 [[files]]
@@ -586,8 +589,9 @@ hash = "80e31408f9b3270e5d375274a16b0fc53abdd51eadeaf16f49d7219364e9e4e4"
 metafile = true
 
 [[files]]
-file = "mods/gtnhlib-0.3.2.jar"
-hash = "863f6d86cde03ec4029db40a8351d3670d11929eefcfd3bd66d22a97e6ac00ab"
+file = "mods/gtnhlib.pw.toml"
+hash = "9f6df6b0a5f319a7f865e05b4697a521fb7a4ad613ddfc4f165fd02c5618f752"
+metafile = true
 
 [[files]]
 file = "mods/helpfixer.pw.toml"
@@ -595,8 +599,9 @@ hash = "3378c7d035fd6cc8bbf2eb6e07078022baf760684003d17453e0e77d5ec6187e"
 metafile = true
 
 [[files]]
-file = "mods/hodgepodge-2.5.31.jar"
-hash = "fa64845115b06b95579e947833f07d47be760b8550a1520db324600f3005b690"
+file = "mods/hodgepodge.pw.toml"
+hash = "978bd3c1f00d3f5d4119622d076cbec31b41e1a9ff27af6cc074006f1bab81d7"
+metafile = true
 
 [[files]]
 file = "mods/holoinventory-2.4.12-GTNH.jar"
@@ -662,8 +667,18 @@ file = "mods/netherportalfix-1.3.0.jar"
 hash = "ec60e16c3422c8c3a5149c7265531c38838557c35a7ef4ab8b327f0c166b28a3"
 
 [[files]]
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "063154ce7b7565147e9513f9f8f91ad0232685c24cf3c6877b9ad6c11f46211e"
+metafile = true
+
+[[files]]
 file = "mods/notenoughresources.pw.toml"
 hash = "d59e5fdbfd68f7ddb50cea5cdaf95f53eab824b8111ec855b3c90aeedee13a27"
+metafile = true
+
+[[files]]
+file = "mods/omnifluids.pw.toml"
+hash = "9d1f0eb95f7d92f4733b72084136877f1e94e82baf99aacf685e1b59348ff6ac"
 metafile = true
 
 [[files]]
@@ -703,6 +718,11 @@ hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
 metafile = true
 
 [[files]]
+file = "mods/server-properties-for-lan.pw.toml"
+hash = "bc51a5a79c1aaf4a886ac78cfcdbb082b18a6e65a37e08376481722e0d0dc7f3"
+metafile = true
+
+[[files]]
 file = "mods/smooth-font.pw.toml"
 hash = "317f48d5b1c4ec7cb0e949d7fa54eb0df8f13a5b11b0134524f29f6b272f123c"
 metafile = true
@@ -726,12 +746,17 @@ file = "mods/tcneiadditions-1.4.0.jar"
 hash = "ab291e13dde3eebd0d0269949c2a8b5c85b2b8e7962361b3a9d3ec1fa7923b66"
 
 [[files]]
-file = "mods/tcnodetracker-1.3.0.jar"
-hash = "a1651ef9aa667a2f8a3fcf74877c1f70b980f74a42ec4a454e476036e8731d99"
+file = "mods/tcnodetracker-1.3.1.jar"
+hash = "6ac4fee0fef60377159762b144ad628b64a0275f6d65b4c79bfb93345bc312a7"
 
 [[files]]
 file = "mods/technomancy.pw.toml"
 hash = "8c1194b04c6ab8ae948894e219a6ab68d44b8f9e2b6bf8decdce2de6d99b5324"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-integration.pw.toml"
+hash = "417f8fc0e185ef110b6a39163672bc4d8534a50a736e07593ee4da8fa62b5c05"
 metafile = true
 
 [[files]]
@@ -755,13 +780,23 @@ hash = "64117f47a767ce7f79fe1e965b9800b00bdea3f9740e57c27586a20b5f8ce188"
 metafile = true
 
 [[files]]
+file = "mods/thaumic-horizons.pw.toml"
+hash = "ce93486e6fec2dba360713fe5ab208fd2c563e051b6ba633c795bd14e1f11a9d"
+metafile = true
+
+[[files]]
 file = "mods/thaumic-infusion.pw.toml"
 hash = "011026e2c299cf2d1754a98a8fa1ff97046621947993feea38ca3bf6a8b4191e"
 metafile = true
 
 [[files]]
-file = "mods/thaumicenergistics-1.6.12-GTNH-pre.jar"
-hash = "be1e5d12899ba4d5eb0c56722be8302fdfde816c41e205f94c8211388048f44f"
+file = "mods/thaumicenergistics-1.6.18-GTNH.jar"
+hash = "58156bec61cc51c0198189a95786427b485b2f72e363b162ab3fb970e1d7320e"
+
+[[files]]
+file = "mods/tinkers-steelworks-fork.pw.toml"
+hash = "30682cf9b80f95be8c663f8e9b38c8f4547c14210f9c4f01e63a6cd9b63d535c"
+metafile = true
 
 [[files]]
 file = "mods/torched.pw.toml"
@@ -793,13 +828,18 @@ hash = "7bcf59174830ecd4c66aeeb0cd1b2ed52b7f7520d3738dfa814b3b8f0c21501b"
 metafile = true
 
 [[files]]
+file = "mods/zetta-industries.pw.toml"
+hash = "9a5a5ae9e2c12799e0da30907f5531aeaddba205aa9104fd822d50004522e5fb"
+metafile = true
+
+[[files]]
 file = "mods/ztones.pw.toml"
 hash = "c03b3236b7169f8999bee4b3863f0ec725cf4ffe07ff9f9b8a021484331c468b"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0480e331cecf981d4b8e4c545ccbe9a2c86cec8f19ce7b9740d87339a2b48813"
+hash = "ef0cdffb0cd198fbce3a3ee48686573ccd7582d381713c1a8d4e7ffb556bebfe"
 
 [[files]]
 file = "resourcepacks/applied-energistics-2-ukrainian.pw.toml"
@@ -850,19 +890,19 @@ hash = "aecb79e583a5a311542bc0fd41f64c8c64b2fcd81a14a6ab69efcf07f79ccb36"
 
 [[files]]
 file = "resources/potiklo/textures/bohdan_0.png"
-hash = "b792dace48d3c2e66695664a8f261049962f0b047f1137f0ee71349199b65958"
+hash = "9db4b8e223e9d838013549a638dcf946803d237cca11db7d41f14e7d114f33cd"
 
 [[files]]
 file = "resources/potiklo/textures/bohdan_1.png"
-hash = "b792dace48d3c2e66695664a8f261049962f0b047f1137f0ee71349199b65958"
+hash = "9db4b8e223e9d838013549a638dcf946803d237cca11db7d41f14e7d114f33cd"
 
 [[files]]
 file = "resources/potiklo/textures/bohdan_2.png"
-hash = "b792dace48d3c2e66695664a8f261049962f0b047f1137f0ee71349199b65958"
+hash = "9db4b8e223e9d838013549a638dcf946803d237cca11db7d41f14e7d114f33cd"
 
 [[files]]
 file = "resources/potiklo/textures/bohdan_3.png"
-hash = "b792dace48d3c2e66695664a8f261049962f0b047f1137f0ee71349199b65958"
+hash = "9db4b8e223e9d838013549a638dcf946803d237cca11db7d41f14e7d114f33cd"
 
 [[files]]
 file = "resources/potiklo/textures/bohdan_4.png"
@@ -909,10 +949,6 @@ file = "scripts/ChiselAspect_withoutbloodRune.zs"
 hash = "30237ec3f13a0bc0b3dc7c255a52cb3c86e169c1618fa0558cb64fb5125bc42b"
 
 [[files]]
-file = "scripts/ExtraTiC-patches-Thaumcraft-1.2_withoutmana.zs"
-hash = "79349dd74293485bc97c0b4e9e353a4e9b97492b0251d9766ca231424492a527"
-
-[[files]]
 file = "scripts/IronChests%20%2B%20Extra%20Carts.zs"
 hash = "6363791876f5286782a6119ad0eb299ea81eb6b2994ec5219f1eee3fec807ec7"
 
@@ -921,9 +957,13 @@ file = "scripts/TRT.zs"
 hash = "4067525e360332da58dca2831d4a616f70984f259bdc872c5bf9bd491e176deb"
 
 [[files]]
+file = "scripts/TSteelworks-Zetta-workout.zs"
+hash = "0ad9406000b46bb511a76b9ed32ce692a784d403b6119c3f22a202366e048a0b"
+
+[[files]]
 file = "scripts/TwilightAspects.zs"
 hash = "2f8c4c4f07b088661e02539fb8512e5c93467bc77258a011ea14ff32924668ef"
 
 [[files]]
 file = "scripts/naturalis.zs"
-hash = "dee8f5eb437dec7bc7121de10f436627722374370ff23938a3838b0b2dbf4eb5"
+hash = "3886a9ed978b5a46459ea8f7bdcc8b568ccf1355478580dc35706ad58a09c890"
